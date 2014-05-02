@@ -22,6 +22,11 @@ import javax.swing.JPanel;
 import javax.swing.JPasswordField;
 import javax.swing.JTextField;
 import javax.xml.bind.annotation.XmlElementDecl.GLOBAL;
+/**
+ * 
+ * @author Matador
+ *
+ */
 
 public class HomeInterface extends JFrame  {
 	private static int ID;	 
